@@ -1,4 +1,4 @@
-# 311
+# New York City's 311 Service: can we predict complaints and does everyone have equal access?
 
 311 is New York City's non-emergency customer service department, which handles all quality of life concerns posed by the public.  Its mission is to improve the services provided by municipal government by responding to citizen complaints. 
 
