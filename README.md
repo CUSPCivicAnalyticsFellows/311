@@ -6,7 +6,7 @@ The 2016-2017 New York University Civic Analytics Fellows are analyzing the dist
 
 Primary contributors are Boyeong Hong and Kristi Korsberg. 
 
-In order to reproduce our research, please follow the directions below.
+In order to reproduce our research, please follow the directions below:
 
 1. Open terminal and clone the repository.
 2. Run the download_data.py file in terminal with the 'python download_data.py' command.
